@@ -1,0 +1,87 @@
+Date: Wed, 20 Aug 2025 18:06:06 +0000
+To: muralisocial123@gmail.com
+Subject: Backup Status for 2025-08-20
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Backup FAILED!
+Check logs at /var/log/backup_errors.log
+Date: Wed, 20 Aug 2025 19:27:01 +0000
+From: chahatrajput5585@gmail.com
+To: chahatrajput5585@gmail.com
+Subject: Test Backup Email
+Message-ID: <68a62185.u7mPOB1ftigu7kt2%chahatrajput5585@gmail.com>
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Test email from EC2
+Date: Wed, 20 Aug 2025 19:27:01 +0000
+From: chahatrajput5585@gmail.com
+To: chahatrajput5585@gmail.com
+Subject: Backup Status for 2025-08-20
+Message-ID: <68a62185.t+GfYcWemOpcwrzb%chahatrajput5585@gmail.com>
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Backup successful: appdata_backup_2025-08-20.tar.gz
+Date: Wed, 20 Aug 2025 19:28:02 +0000
+From: chahatrajput5585@gmail.com
+To: chahatrajput5585@gmail.com
+Subject: Backup Status for 2025-08-20
+Message-ID: <68a621c2.Myy0cbNdXTbpEPYk%chahatrajput5585@gmail.com>
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Backup successful: appdata_backup_2025-08-20.tar.gz
+Date: Wed, 20 Aug 2025 19:28:02 +0000
+From: chahatrajput5585@gmail.com
+To: chahatrajput5585@gmail.com
+Subject: Test Backup Email
+Message-ID: <68a621c2.zF5WKhCr987hi6KT%chahatrajput5585@gmail.com>
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Test email from EC2
+Date: Wed, 20 Aug 2025 19:28:15 +0000
+From: chahatrajput5585@gmail.com
+To: chahatrajput5585@gmail.com
+Subject: Test from EC2
+Message-ID: <68a621cf.9snAgkuCudVAR8s3%chahatrajput5585@gmail.com>
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hello, this is a Gmail SMTP test
+Date: Wed, 20 Aug 2025 19:29:01 +0000
+From: chahatrajput5585@gmail.com
+To: chahatrajput5585@gmail.com
+Subject: Backup Status for 2025-08-20
+Message-ID: <68a621fd.yorrgdXJb6CwERP6%chahatrajput5585@gmail.com>
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Backup successful: appdata_backup_2025-08-20.tar.gz
+Date: Wed, 20 Aug 2025 19:30:01 +0000
+From: chahatrajput5585@gmail.com
+To: chahatrajput5585@gmail.com
+Subject: Backup Status for 2025-08-20
+Message-ID: <68a62239.T86AtuoPRnSwQ24u%chahatrajput5585@gmail.com>
+User-Agent: Heirloom mailx 12.5 7/5/10
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Backup successful: appdata_backup_2025-08-20.tar.gz
